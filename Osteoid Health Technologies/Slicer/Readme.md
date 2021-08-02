@@ -1,4 +1,4 @@
-# Readme - Slicer Scrits
+# Readme - Slicer Scripts
 
 # center.py
 
